@@ -19,4 +19,6 @@ are organizer documents retained with their original attribution.
 image or award graphic has been invented. Certificates held by the team are mentioned
 only in the event record until their actual scans are supplied.
 
-All AEDEXA captures belong to hackathon iterations. The submitted video is linked on YouTube (`wwHJ0La7rXE`); the expanded edition is not pictured.
+All AEDEXA product captures belong to hackathon iterations. The submitted video is linked on YouTube (`wwHJ0La7rXE`); the expanded edition is not pictured.
+
+`media/html-challenge-winners.webp` is the unchanged original artwork from HTML Challenge / @html_challenge, published 19 September 2026: https://www.instagram.com/html_challenge/p/DddbiW2jNRV/?img_index=2 . It was retrieved through the rendered public post on 12 October 2026.

@@ -3,8 +3,11 @@
 ## HTML Challenge 2026
 
 An online website-development competition, 30 August–14 September 2026.
-**Result: first place**, reported by QwertyS. The team retains first-place certificates
-with participant and team names; no certificate scan is published in this repository yet.
+**Result: first place**, confirmed by the organizer's
+[19 September results](https://www.instagram.com/html_challenge/p/DddbiW2jNRV/?img_index=2),
+which name Qwertys as the winner. The [original results artwork](../media/html-challenge-winners.webp)
+is retained with organizer attribution. The team also retains first-place certificates;
+their scans are not published here yet.
 
 [Event-calendar listing](https://hackathon.kz/event.html?slug=html-challenge-2026)
 provides the schedule and format. It is a secondary event listing, not a winners list.
@@ -12,6 +15,10 @@ provides the schedule and format. It is a secondary event listing, not a winners
 [Organizer's Instagram account](https://www.instagram.com/html_challenge/).
 The exact number of participating teams is not established by the accessible event
 sources, so an estimated count is not used in the award claim.
+The [5 September second-stage results](https://www.instagram.com/html_challenge/p/Dc6CicUjD3h/)
+list 20 advancing teams, including Qwertys; this is not the total number registered.
+The calendar described results planned by 14 September; the official winners post
+was actually published on 19 September.
 
 ## AI Builders Hackathon
 

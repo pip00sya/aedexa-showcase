@@ -132,11 +132,21 @@ checks**, a regression corpus of **69 third-party DWG drawings** (**63 readable 
 and **19 source-linked building-code rules**. These are the development results reported
 for the submitted web edition, rather than a new test execution performed for this showcase.
 
-AEDEXA received **first place at HTML Challenge 2026**, according to the team and its
-retained first-place certificates. It was also submitted to the **AI Builders Hackathon**
+AEDEXA received **first place at HTML Challenge 2026**. The organizer's
+[official results, published 19 September](https://www.instagram.com/html_challenge/p/DddbiW2jNRV/?img_index=2),
+name **Qwertys** in first place. It was also submitted to the **AI Builders Hackathon**
 on Devpost; that submission did not receive a prize. These are separate events and outcomes.
 The [hackathon record](docs/HACKATHON.md) links the event information, submitted project
-and video, and distinguishes the award certificates from event-calendar listings.
+and video, official result and retained team certificates.
+
+<details><summary>Official HTML Challenge results</summary>
+
+![Official HTML Challenge 2026 results: Qwertys in first place.](media/html-challenge-winners.webp)
+
+*Original organizer artwork from the [19 September results publication](https://www.instagram.com/html_challenge/p/DddbiW2jNRV/?img_index=2).
+Credit: HTML Challenge / @html_challenge. Preserved without alteration.*
+
+</details>
 
 The public source includes local setup, geometry tests, demonstration drawings and
 deployment instructions. Its committed development record can be explored alongside
