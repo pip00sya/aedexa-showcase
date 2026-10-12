@@ -184,7 +184,9 @@ Credit: HTML Challenge / @html_challenge. Preserved without alteration.*
 
 The public source includes local setup, geometry tests, demonstration drawings and
 deployment instructions. Its committed development record can be explored alongside
-the [full-history Eye172 copy](https://github.com/Eye172/aedexa-1/tree/migration/web-platform).
+the [private full-history Eye172 copy](https://github.com/Eye172/aedexa-1/tree/migration/web-platform)
+(collaborator access required at the 12 October 2026 review). The hackathon
+implementation on pip00sya remains public.
 The hosted app and submitted video both refer to the hackathon edition.
 
 ### Earlier deterministic reconstruction research
@@ -231,7 +233,7 @@ This public case study is maintained on Nurkhan's account.
 [Companion showcase on Shakhnazar's account](https://github.com/Eye172/aedexa-showcase) ·
 [Nurkhan's projects](https://github.com/pip00sya) · [Shakhnazar's projects](https://github.com/Eye172).
 
-[Public hackathon source](https://github.com/pip00sya/aedexa-hackathon) · [Eye172 history copy](https://github.com/Eye172/aedexa-1/tree/migration/web-platform). Application licensing is documented in the source repository.
+[Public hackathon source](https://github.com/pip00sya/aedexa-hackathon) · [Private Eye172 history copy](https://github.com/Eye172/aedexa-1/tree/migration/web-platform) (requires access). Application licensing is documented in the source repository.
 
 [Hackathon record and supporting sources](docs/HACKATHON.md) ·
 [Media provenance](docs/MEDIA.md).
