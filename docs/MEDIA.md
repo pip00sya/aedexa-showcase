@@ -40,3 +40,11 @@ All AEDEXA product captures belong to hackathon iterations. The submitted video 
 These additions show the hackathon edition. They contain no expanded-edition media.
 The landing's published statistics remain project-reported; the capture does not
 turn them into a new verification run.
+
+## Professional pilot results
+
+The [Ansar Architects report](pilot/README.md) documents the completed closed pilot
+in one company, 20 September–4 October 2026. Its task-time chart is rendered from
+the reported measurements, including stated review and corrections. It is a data
+visualization, distinct from the hackathon product captures. The report retains
+quality failures, cohort sizes and the continuing trial’s separate status.

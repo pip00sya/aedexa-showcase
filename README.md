@@ -6,7 +6,8 @@
 [Open the hackathon app](https://aedexa.site/) ·
 [Watch the submitted demo](https://www.youtube.com/watch?v=wwHJ0La7rXE) ·
 [Read the Devpost submission](https://devpost.com/software/aedexa) ·
-[Explore the public hackathon source](https://github.com/pip00sya/aedexa-hackathon)
+[Explore the public hackathon source](https://github.com/pip00sya/aedexa-hackathon) ·
+[Professional pilot results](#field-pilot-with-one-architectural-practice)
 
 ![AEDEXA's hackathon landing page: the rotating portal tetrahedron, wordmark and source-linked product statistics.](media/landing-hero.jpg)
 
@@ -210,11 +211,25 @@ used as a performance claim for the current web workflow.
 
 </details>
 
-## Beyond the hackathon edition
+## Field pilot with one architectural practice
 
-A separate expanded edition is maintained privately. This section is reserved for
-publicly approved information about its differences and subsequent use. The expanded
-edition's code, interface and demonstrations are not included in this showcase.
+AEDEXA completed a closed pilot with **Ansar Architects**, one company, from
+**20 September to 4 October 2026**. Four professionals worked with five sites:
+three current projects and two archived cases. The report covers timing, drawing
+compatibility, geometric comparisons, rule checks and usability.
+
+[![Reported task times in the Ansar Architects pilot. Reconstruction includes the full hour of corrections.](docs/pilot/assets/task-times.svg)](docs/pilot/README.md)
+
+The four timed workflows were **56.7–88.0% faster** than the reported manual
+baselines, including the stated review and corrections. Reliability remained a
+separate concern: **8/11 DWG files opened fully**, **47/50 definite verdicts agreed
+with the lead project architect**, and **one false PASS** was recorded. SUS was
+**66/100 (n=4)**. [Read the complete pilot results](docs/pilot/README.md).
+
+Trial use continued from **5 October**; results for that stage are not reported
+yet. The expanded implementation remains private. The public product gallery and
+video show the hackathon edition; the pilot chart visualizes reported aggregate
+measurements and is not a customer-workspace screenshot.
 
 ---
 
